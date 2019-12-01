@@ -1,0 +1,308 @@
+﻿"Question
+{
+{
+“Body” : “Who was the first president of the United States?”,
+“Answer” : “George Washington”,
+“Subject” : “HIST”,
+“Chapter” : “1“,
+“WrongAnswer” : [“Abraham Lincoln“,“Richard Nixon“,“Ronald Reagan“]
+}
+{
+“Body”: “What year was the Declaration of Independence signed?“,
+“Answer”: “1776“,
+“Subject”: “HIST“,
+“Chapter”: “1“,
+“WrongAnswer” : [“1780“,”1770“,”1772“]
+}
+{ 
+“Body” : “How many years did the 'One Hundred Years War' last?“,
+“Answer” : “116“,
+“Subject” : “HIST“,
+“Chapter” : “1“,
+“WrongAnswer” [“100“,“99“,“101“]
+}
+{
+“Body” : “What was the name of the research ship Charles Darwin travelled with?“,
+“Answer” : “Beagle“,
+“Subject” : “HIST“,
+“Chapter” : “1“,
+“WrongAnswer” [“Eagle“, “Mermaid“,“Turtle“]
+}
+{
+“Body” : “In which year was JFK assassinated?“,
+“Answer” : “1963“,
+“Subject” : “HIST“,
+“Chapter” : “1“,
+“WrongAnswer” [“1962“,“1961“,“1964“]
+}
+{ 
+“Body” : “Which country did the USSR invade in 1979?“,
+“Answer” : “Afghanistan“,
+“Subject” : “HIST“,
+“Chapter” : “1“,
+“WrongAnswer” [“Iraq“,“China“,“Iran“]
+}
+{ 
+“Body” : “Which explorer was the first to circumnavigate the globe?“,
+“Answer” : “Juan Sebastian Elcano“,
+“Subject” : “HIST“,
+“Chapter” : “1“,
+“WrongAnswer” [“Columbus“,“Marco Polo“,“Ferdinand Magellan“]
+}
+
+
+{ 
+“Body” : “Which organisation was awarded the Nobel Peace Prize in 1917?“,
+“Answer” : “The Red Cross“,
+“Subject” : “HIST“,
+“Chapter” : “1“,
+“WrongAnswer” [“The Boy Scout“,“The Police“,“Fathers for Justice“]
+}
+{ 
+“Body” : “Which of the following was not a D-Day beach?“,
+“Answer” : “Reno“,
+“Subject” : “HIST“,
+“Chapter” : “1“,
+“WrongAnswer” [“Juno“,“Gold“,“Sword“]
+}
+{ 
+“Body” : “How many days were there in one week in ancient Roman times?“,
+“Answer” : “8“,
+“Subject” : “HIST“,
+“Chapter” : “1“,
+“WrongAnswer” [“6“,“7“,“9“]
+}
+{ 
+“Body” : “What does the string variable do?“,
+“Answer” : “Holds character data“,
+“Subject” : “MIS“,
+“Chapter” :”1”,
+“WrongAnswer” : [“Holds number data“,“Counts“,“Holds words backwards“]
+}
+{ 
+“Body” : “What is output?“,
+“Answer” : “Transfers processed information to the people who will use it or to the activities for which it will be used.“,
+“Subject” : “MIS“,
+“Chapter” :”1”,
+“WrongAnswer” : [“Is feedback that has been processed to create meaningful information“,“Is feedback that has been processed to create meaningful information“,“Is feedback that has been processed to create meaningful information“]
+}
+{ 
+“Body” : “Converting raw data into a more meaningful form is called:“,
+“Answer” : “Processing“,
+“Subject” : “MIS“,
+“Chapter” :”1”,
+“WrongAnswer” : [“Capturing“,“Organizing“,“Feedback“]
+}
+{ 
+“Body” : “In an information system,which of the following accepts data from the environment?“,
+“Answer” : “Input“,
+“Subject” : “MIS“,
+“Chapter” :”1”,
+“WrongAnswer” : [“Process“,“Output“,“Null“]
+}
+{ 
+“Body” : “Sets of logically related tasks & behaviors that organizations develop to produce specific business results are called:“,
+“Answer” : “Business Processes“,
+“Subject” : “MIS“,
+“Chapter” :”1”,
+“WrongAnswer” : [“Processing“,“Corporate Assets“,“Accounting“]
+}
+{ 
+“Body” : “The behavioral approach to information systems tends to focus on:“,
+“Answer” : “Non-technical solutions“,
+“Subject” : “MIS“,
+“Chapter” :”1”,
+“WrongAnswer” : [“System Capabilities“,“Formal Models”]
+}
+{ 
+“Body” : “The use of information systems because of necessity describes the business objective of:“,
+“Answer” : “Survival“,
+“Subject” : “MIS“,
+“Chapter” :”1”,
+“WrongAnswer” : [“Improved business practices“,“Competitive advantage”,“Improved flexibility”]
+}
+
+
+{ 
+“Body” : “Using an Information System to enhance productivity is an example of which of the six strategic business objectives?“,
+“Answer” : “Operational excellence“,
+“Subject” : “MIS“,
+“Chapter” :”1”,
+“WrongAnswer” : [“Improved decision-making“,“Competitive advantage”]
+}
+{ 
+“Body” : “The average number of tickets sold daily online is an example of:“,
+“Answer” : “Meaningful information“,
+“Subject” : “MIS“,
+“Chapter” :”1”,
+“WrongAnswer” : [“Input“,“Raw data”,“Feedback”]
+}
+{ 
+“Body” : “Internet advertising is growing at a rate of more than 25 percent a year:“,
+“Answer” : “True“,
+“Subject” : “MIS“,
+“Chapter” :”1”,
+“WrongAnswer” : [“False“]
+}
+{ 
+“Body” : “Dell Computer's use of information systems to improve efficiency and implement "mass customization" techniques to maintain consistent profitability and an industry lead illustrates which business objective?“,
+“Answer” : “Competitive advantage“,
+“Subject” : “MIS“,
+“Chapter” :”1”,
+“WrongAnswer” : [“Improved flexibility“,“Improved business practices”,“Survival”]
+}
+{ 
+“Body” : “In an information system, which of the following transfers information to the people or groups in an organization who use it:“,
+“Answer” : “Output“,
+“Subject” : “MIS“,
+“Chapter” :”1”,
+“WrongAnswer” : [“Input“,“Process”]
+}
+{ 
+“Body” : “Order data for baseball tickets and bar code data are examples of:“,
+“Answer” : “Raw input“,
+“Subject” : “MIS“,
+“Chapter” :”1”,
+“WrongAnswer” : [“Raw output“,“Customer and product data”,”Sales information”]
+}
+{ 
+“Body” : “Solve: (2x + 5)/(x + 4) = 1“,
+“Answer” : “x=1“,
+“Subject” : “MATH“,
+“Chapter” : “1“,
+“WrongAnswer” : [“x=4“, “x= -2“, “x=6“]
+}
+{ 
+“Body” : “Solve: 6x - 19 = 3x - 10“,
+“Answer” : “x=3“,
+“Subject” : “MATH“,
+“Chapter” : “1“,
+“WrongAnswer” : [“x= -3“, “x=4“, “x=9“]
+}
+{ 
+“Body” : “Solve: 5 - 2(x - 1) = 4(3 - x) - 2x“,
+“Answer” : “x = 5/4“,
+“Subject” : “MATH“,
+“Chapter” : “1“,
+“WrongAnswer” : [“x=3“, “x=5“, “x=1/2“]
+}
+{ 
+“Body” : “x/2 + x/3 = x - 7“,
+“Answer” : “x = 42“,
+“Subject” : “MATH“,
+“Chapter” : “1“,
+“WrongAnswer” : [“x=34“, “x=24“, “x=21“]
+}
+{ 
+“Body” : “2/(x + 3) = 3/(5 - x)“,
+“Answer” : “x = 1/5“,
+“Subject” : “MATH“,
+“Chapter” : “1“,
+“WrongAnswer” : [“x=2“, “x=3/4“, “x=5“]
+}
+{ 
+“Body” : “5x-6=3x-8“,
+“Answer” : “x= -1“,
+“Subject” : “MATH“,
+“Chapter” : “1“,
+“WrongAnswer” : [“x=3“, “x=1“, “x=5“]
+}
+{ 
+“Body” : “2x-4=10“,
+“Answer” : “x=7“,
+“Subject” : “MATH“,
+“Chapter” : “1“,
+“WrongAnswer” : [“x=2“, “x=1“, “x=8“]
+}
+{ 
+“Body” : “3x+2=14“,
+“Answer” : “x=4“,
+“Subject” : “MATH“,
+“Chapter” : “1“,
+“WrongAnswer” : [“x=2“, “x=1/4“, “x=2“]
+}
+{ 
+“Body” : “2x+3=x+15“,
+“Answer” : “x=12“,
+“Subject” : “MATH“
+“Chapter” : “1“,
+“WrongAnswer” : [“x=9“, “x=3“, “x=4“]
+}
+{ 
+“Body” : “4x-3=13“,
+“Answer” : “x=4“,
+“Subject” : “MATH“,
+“Chapter” : “1“,
+“WrongAnswer” : [“x=3“, “x=2“, “x=2/3“]
+}
+{ 
+“Body” : “Which of these is a potential benefit of establishing CEO duality?“,
+“Answer” : “Increased crisis management“,
+“Subject” : “B AD“,
+“Chapter” : “1“,
+“WrongAnswer” : [“Higher CEO monitoring“, “Slower response to change“, “Lower performance“]
+}
+{ 
+“Body” : “What term encompasses the ability to anticipate, envision, maintain flexibility, and empower others to create strategic change as necessary?“,
+“Answer” : “Strategic leadership“,
+“Subject” : “B AD“,
+“Chapter” : “1“,
+“WrongAnswer” : [“Strategic power“, “Influence“, “Teamwork“]
+}
+{ 
+“Body” : “Firms may hire a CEO from the external managerial labor market for which of the following reasons?“,
+“Answer” : “Innovation of the company“,
+“Subject” : “B AD“,
+“Chapter” : “1“,
+“WrongAnswer” : [“Need for an expert in the industry“, “Continuation of strategy“, “Feel for what will work in the firm“]
+}
+{ 
+“Body” : “What is involved in identifying the vision and the strategy or strategies to achieve a goal over time?“,
+“Answer” : “Determining strategic direction“,
+“Subject” : “B AD“,
+“Chapter” : “1“,
+“WrongAnswer” : [“Corporate governance“, “Strategic planning“, “Vision planning“]
+}
+{ 
+“Body” : “Which of these is not an example of a strategic leader?“,
+“Answer” : “High performing sales associate“,
+“Subject” : “B AD“,
+“Chapter” : “1“,
+“WrongAnswer” : [“High school baseball coach“, “Chairman of the Board“, “Manager of Marketing“]
+}
+{ 
+“Body” : “What is referred to as the knowledge and skills of a firm's entire workforce?“,
+“Answer” : “Human capital“,
+“Subject” : “B AD“,
+“Chapter” : “1“,
+“WrongAnswer” : [“Intellectual capital“, “Organizational capital“, “Social capital“]
+}
+{ 
+“Body” : “What is the Board of Directors' most important responsibility?“,
+“Answer” : “Selection of the CEO“,
+“Subject” : “B AD“,
+“Chapter” : “1“,
+“WrongAnswer” : [“Monitoring the CEO“, “Increase revenue“, “Corporate culture“]
+}
+{ 
+“Body” : “A firm is attempting to break into an international market. It easily established alliances in that foreign market and was able to successfully expand. What concepts helped the firm with its transition?“,
+“Answer” : “Social capital“,
+“Subject” : “B AD“,
+“Chapter” : “1“,
+“WrongAnswer” : [“Innovations“, “Intellectual capital“, “Corporate culture“]
+}
+{ 
+“Body” : “Why would a company want to have a heterogeneous top management team?“,
+“Answer” : “Thoughts coming from different expertise and backgrounds will provide a better decision“,
+“Subject” : “B AD“,
+“Chapter” : “1“,
+“WrongAnswer” : [“To ensure the CEO does not have too much power“, “To increase the speed of decision making“, “A management team of one specialty will create cohesive decisions“]
+}
+{ 
+“Body” : “What is the name for a group of individuals who are responsible for making certain a company uses the strategic management process, especially for the purpose of selecting and implementing strategies?“,
+“Answer” : “Top management team“,
+“Subject” : “B AD“,
+“Chapter” : “1“,
+“WrongAnswer” : [“Business development team“, “Strategy department“, “Strategy implementation team“]
+}
+}
